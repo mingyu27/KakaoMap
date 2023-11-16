@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KakaoMap4</string>
+
+    <string-array name="categories">
+        <item>Category 1</item>
+        <item>Category 2</item>
+        <!-- Add more categories as needed -->
+    </string-array>
+
+</resources>
